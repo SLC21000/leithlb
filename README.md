@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leithlb
+- 👋 Hi, I’m @SLC
 - 👀 I’m interested in Web programming
 - 🌱 I’m currently learning React-Ts
 
